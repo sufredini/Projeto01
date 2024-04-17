@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:Arial, Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+
+#cabecalho{
+    height: 150px;
+    background-color: #b5e339;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#menu{
+    height: 500px;
+    width: 710px;
+    background-color: #a2d12b;
+    float: left;
+    margin-left: 37px;
+    margin-top: 10px
+}
+
+#menu2{
+    height: 500px;
+    width: 700px;
+    background-color: #a2d12b;
+    float: left;
+    margin-left: 37px;
+    margin-top: 10px
+}
+
+#rodape{
+    height: 100px;
+    background-color:#b5e339 ;
+    clear: both;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#cabecalho2{
+    height: 150px;
+    background-color: #b5e339;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button {
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    background-color: #06eb6d;
+    color: white; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+}
