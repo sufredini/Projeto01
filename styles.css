@@ -15,6 +15,7 @@ body{
     width: 100%;
     margin: 0 auto;
     text-align: center;
+    border-radius: 20px;
 }
 
 #menu{
@@ -23,7 +24,8 @@ body{
     background-color: #a2d12b;
     float: left;
     margin-left: 37px;
-    margin-top: 10px
+    margin-top: 10px;
+    border-radius: 20px;
 }
 
 #menu2{
@@ -32,8 +34,10 @@ body{
     background-color: #a2d12b;
     float: left;
     margin-left: 37px;
-    margin-top: 10px
+    margin-top: 10px;
+    border-radius: 20px;
 }
+
 
 #rodape{
     height: 100px;
@@ -42,6 +46,7 @@ body{
     width: 100%;
     margin: 0 auto;
     text-align: center;
+    border-radius: 20px;
 }
 
 #cabecalho2{
@@ -50,6 +55,7 @@ body{
     width: 100%;
     margin: 0 auto;
     text-align: center;
+    border-radius: 20px;
 }
 
 button {
@@ -62,3 +68,12 @@ button {
     display: inline-block;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
 }
+
+#menu{
+    color: white;
+}
+
+#menu2{
+    color: white;
+}
+
